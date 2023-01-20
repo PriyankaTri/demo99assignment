@@ -1,0 +1,161 @@
+2023-01-11 11:18:24 INFO  demoproject:20 - Entered Username: mngr470589
+  2023-01-11 11:18:25 INFO  demoproject:22 - Entered password: vugEdan
+  2023-01-11 11:18:26 INFO  demoproject:24 - Clicked on login button
+  2023-01-11 11:18:26 INFO  demoproject:27 - Test passed
+  2023-01-11 11:20:50 INFO  demoproject:20 - Entered Username: mngr470589
+  2023-01-11 11:20:50 INFO  demoproject:22 - Entered password: vugEdan
+  2023-01-11 11:20:52 INFO  demoproject:24 - Clicked on login button
+  2023-01-11 11:20:52 INFO  demoproject:27 - Test passed
+  2023-01-11 11:44:33 INFO  demoproject:20 - Entered Username: mngr470589
+  2023-01-11 11:44:33 INFO  demoproject:22 - Entered password: vugEdan
+  2023-01-11 11:44:34 INFO  demoproject:24 - Clicked on login button
+  2023-01-11 11:44:34 INFO  demoproject:27 - Test passed
+  2023-01-11 12:10:12 INFO  demoproject:20 - Entered Username: mngr470589
+  2023-01-11 12:10:12 INFO  demoproject:22 - Entered password: vugEdan
+  2023-01-11 12:10:13 INFO  demoproject:24 - Clicked on login button
+  2023-01-11 12:10:13 INFO  demoproject:27 - Test passed
+  2023-01-11 12:15:57 INFO  demoproject:23 - Entered Username: mngr470589
+  2023-01-11 12:15:58 INFO  demoproject:25 - Entered password: vugEdan
+  2023-01-11 12:15:59 INFO  demoproject:27 - Clicked on login button
+  2023-01-11 12:15:59 INFO  demoproject:30 - Test passed
+  2023-01-11 12:20:23 INFO  demoproject:23 - Entered Username: mngr470589
+  2023-01-11 12:20:23 INFO  demoproject:25 - Entered password: vugEdan
+  2023-01-11 12:20:24 INFO  demoproject:23 - Entered Username: mngr470589
+  2023-01-11 12:20:24 INFO  demoproject:25 - Entered password: vugEdan
+  2023-01-11 12:20:24 INFO  demoproject:27 - Clicked on login button
+  2023-01-11 12:20:24 INFO  demoproject:30 - Test passed
+  2023-01-11 12:20:26 INFO  demoproject:27 - Clicked on login button
+  2023-01-11 12:20:26 INFO  demoproject:30 - Test passed
+  2023-01-13 11:17:15 INFO  demoproject:25 - Entered Username: mngr470589
+  2023-01-13 11:17:15 INFO  demoproject:27 - Entered password: vugEdan
+  2023-01-13 11:17:17 INFO  demoproject:29 - Clicked on login button
+  2023-01-13 11:17:17 INFO  demoproject:32 - Test passed
+  2023-01-13 11:24:12 INFO  demoproject:25 - Entered Username: mngr470589
+  2023-01-13 11:24:15 INFO  demoproject:28 - Entered password: vugEdan
+  2023-01-13 11:24:17 INFO  demoproject:30 - Clicked on login button
+  2023-01-13 11:24:17 INFO  demoproject:33 - Test passed
+  2023-01-18 12:36:30 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 12:36:31 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 12:36:39 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 12:36:39 INFO  demoproject:36 - Test passed
+  2023-01-18 12:47:15 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 12:47:15 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 12:47:19 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 12:47:20 INFO  demoproject:36 - Test passed
+  2023-01-18 16:13:15 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 16:13:15 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 16:13:22 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 16:13:22 INFO  demoproject:36 - Test passed
+  2023-01-18 16:16:49 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 16:16:50 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 16:17:05 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 16:17:05 INFO  demoproject:36 - Test passed
+  2023-01-18 16:20:54 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 16:20:54 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 16:21:00 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 16:21:00 INFO  demoproject:36 - Test passed
+  2023-01-18 17:14:51 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-18 17:14:51 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-18 17:14:54 INFO  demoproject:33 - Clicked on login button
+  2023-01-18 17:14:54 INFO  demoproject:36 - Test passed
+  2023-01-19 11:25:45 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-19 11:25:45 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-19 11:25:54 INFO  demoproject:33 - Clicked on login button
+  2023-01-19 11:25:54 INFO  demoproject:36 - Test passed
+  2023-01-19 11:26:58 INFO  demoproject:28 - Entered Username: mngr470589
+  2023-01-19 11:26:58 INFO  demoproject:31 - Entered password: vugEdan
+  2023-01-19 11:27:00 INFO  demoproject:33 - Clicked on login button
+  2023-01-19 11:27:00 INFO  demoproject:36 - Test passed
+  2023-01-19 11:33:04 INFO  demoproject:29 - Entered Username: mngr470589
+  2023-01-19 11:33:04 INFO  demoproject:32 - Entered password: vugEdan
+  2023-01-19 11:33:26 INFO  demoproject:34 - Clicked on login button
+  2023-01-19 11:33:26 INFO  demoproject:37 - Test passed
+  2023-01-19 11:41:08 INFO  demoproject:30 - Entered Username: mngr470589
+  2023-01-19 11:41:08 INFO  demoproject:33 - Entered password: vugEdan
+  2023-01-19 11:41:14 INFO  demoproject:35 - Clicked on login button
+  2023-01-19 11:41:14 INFO  demoproject:38 - Test passed
+  2023-01-19 11:41:21 INFO  demoproject:30 - Entered Username: mngr266311
+  2023-01-19 11:41:21 INFO  demoproject:33 - Entered password: Admin123$
+  2023-01-19 11:41:25 INFO  demoproject:35 - Clicked on login button
+  2023-01-19 11:41:25 INFO  demoproject:38 - Test passed
+  2023-01-19 11:47:42 INFO  demoproject:30 - Entered Username: mngr470589
+  2023-01-19 11:47:42 INFO  demoproject:33 - Entered password: vugEdan
+  2023-01-19 11:47:53 INFO  demoproject:35 - Clicked on login button
+  2023-01-19 11:47:53 INFO  demoproject:38 - Test passed
+  2023-01-19 11:47:58 INFO  demoproject:30 - Entered Username: mngr266311
+  2023-01-19 11:47:58 INFO  demoproject:33 - Entered password: Admin123$
+  2023-01-19 11:48:01 INFO  demoproject:35 - Clicked on login button
+  2023-01-19 11:48:01 INFO  demoproject:38 - Test passed
+  2023-01-19 14:19:03 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 14:19:03 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 14:19:04 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:19:04 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 14:19:07 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 14:19:07 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 14:19:11 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:19:11 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 14:21:21 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 14:21:21 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 14:21:23 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:21:23 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 14:21:25 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 14:21:25 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 14:21:26 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:21:26 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 14:54:51 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 14:54:51 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 14:54:59 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:54:59 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 14:55:04 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 14:55:04 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 14:55:06 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 14:55:06 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:19:50 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 15:19:50 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 15:19:51 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:19:51 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:19:53 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 15:19:53 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 15:19:55 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:19:55 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:25:45 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 15:25:45 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 15:25:46 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:25:46 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:25:48 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 15:25:49 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 15:25:53 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:25:53 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:26:22 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 15:26:22 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 15:26:27 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:26:27 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:26:32 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 15:26:32 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 15:26:36 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:26:36 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:27:24 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 15:27:25 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 15:27:30 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:27:30 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 15:27:32 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 15:27:32 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 15:27:33 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 15:27:33 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 16:39:35 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-19 16:39:35 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-19 16:39:41 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 16:39:41 INFO  SeleniumFramework:38 - Test passed
+  2023-01-19 16:39:49 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-19 16:39:50 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-19 16:39:56 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-19 16:39:56 INFO  SeleniumFramework:38 - Test passed
+  2023-01-20 11:01:01 INFO  SeleniumFramework:30 - Entered Username: mngr470589
+  2023-01-20 11:01:02 INFO  SeleniumFramework:33 - Entered password: vugEdan
+  2023-01-20 11:01:08 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-20 11:01:08 INFO  SeleniumFramework:38 - Test passed
+  2023-01-20 11:01:15 INFO  SeleniumFramework:30 - Entered Username: mngr266311
+  2023-01-20 11:01:15 INFO  SeleniumFramework:33 - Entered password: Admin123$
+  2023-01-20 11:01:19 INFO  SeleniumFramework:35 - Clicked on login button
+  2023-01-20 11:01:19 INFO  SeleniumFramework:38 - Test passed
+  

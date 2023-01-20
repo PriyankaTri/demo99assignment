@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://demo.guru99.com/V1/index.php"/>
+  <test parallel="tests" name="test1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://demo.guru99.com/V1/index.php"/>
+    <classes>
+      <class name="com.demo.qa.test.LoginTest">
+        <methods>
+          <include name="loginProcess" invocation-numbers="0 1"/>
+          <include name="flush"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- com.demo.qa.test.LoginTest -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
